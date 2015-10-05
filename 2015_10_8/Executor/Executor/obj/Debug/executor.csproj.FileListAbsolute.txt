@@ -1,0 +1,15 @@
+E:\yhdocprivate\Demos\2015_10_8\Executor\Executor\obj\Debug\executor.csprojResolveAssemblyReference.cache
+E:\yhdocprivate\Demos\2015_10_8\Executor\Executor\bin\Debug\Launcher.exe
+E:\yhdocprivate\Demos\2015_10_8\Executor\Executor\bin\Debug\Launcher.pdb
+E:\yhdocprivate\Demos\2015_10_8\Executor\Executor\bin\Debug\csredis.dll
+E:\yhdocprivate\Demos\2015_10_8\Executor\Executor\bin\Debug\csredis.xml
+E:\yhdocprivate\Demos\2015_10_8\Executor\Executor\obj\Debug\Launcher.exe
+E:\yhdocprivate\Demos\2015_10_8\Executor\Executor\obj\Debug\Launcher.pdb
+D:\Git\yhdocprivate\Demos\2015_10_8\Executor\Executor\bin\Debug\csredis.dll
+D:\Git\yhdocprivate\Demos\2015_10_8\Executor\Executor\bin\Debug\csredis.xml
+D:\Git\yhdocprivate\Demos\2015_10_8\Executor\Executor\obj\Debug\executor.csprojResolveAssemblyReference.cache
+D:\Git\yhdocprivate\Demos\2015_10_8\Executor\Executor\bin\Debug\Sider.dll
+D:\Git\yhdocprivate\Demos\2015_10_8\Executor\Executor\bin\Debug\demo.exe
+D:\Git\yhdocprivate\Demos\2015_10_8\Executor\Executor\bin\Debug\demo.pdb
+D:\Git\yhdocprivate\Demos\2015_10_8\Executor\Executor\obj\Debug\demo.exe
+D:\Git\yhdocprivate\Demos\2015_10_8\Executor\Executor\obj\Debug\demo.pdb
